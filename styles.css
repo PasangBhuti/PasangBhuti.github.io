@@ -1,0 +1,28 @@
+table {
+    border-collapse: collapse;
+
+}
+ th, td{
+    border : 1px solid#b87373;
+    padding : 8px;
+
+ }
+ p{
+    font-family: Ariel, sans-serif;
+ }
+
+ .highlight {
+    color: rgb(154, 196, 96);
+ }
+
+ #references {
+    margin-top: 20px;
+
+ }
+ span{
+    color: black'
+
+ }
+ .highlight {
+    color: red;
+ }

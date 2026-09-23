@@ -24,5 +24,8 @@ table {
 
  }
  .highlight {
-    color: red;
+    color: rgb(243, 85, 17);
+ }
+ body {
+    background-color: rgb(190, 238, 243);
  }

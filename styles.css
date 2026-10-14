@@ -122,11 +122,13 @@ section h2 {
     box-shadow: 0 6px 14px rgba(0, 0, 0, 0.2);
 }
 
+
 .card img {
     display: block;
     width: 100%;
-    aspect-ratio: 4 / 3;   /* keeps all three photos the same size */
-    object-fit: cover;     /* crops instead of stretching */
+    aspect-ratio: 4 / 3;
+    object-fit: contain;
+    background-color: #ffffff;
 }
 
 .card h3 {
